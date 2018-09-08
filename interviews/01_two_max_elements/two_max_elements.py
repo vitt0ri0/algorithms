@@ -1,8 +1,8 @@
-# write a function which finds two max elements from an array.
-# input: array of doubles
-# output: max1, max2
-# example: input: [1.1, 2.2, 3.3, 4.4, 5.5]
-# example: output: [5.5, 4.4]
+# Write a function which finds two max elements from an array.
+#
+# example:
+# array [1.1, 2.2, 3.3, 4.4, 5.5]
+# output [5.5, 4.4]
 
 
 def two_max_elements(array):
