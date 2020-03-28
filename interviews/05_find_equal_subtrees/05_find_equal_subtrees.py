@@ -11,6 +11,10 @@ class Node:
         self.right: Node = right
 
 
+def count_subset(tree_root):
+    pass
+
+
 def count_node_set(node):
     r1 = set()
     r2 = set()
